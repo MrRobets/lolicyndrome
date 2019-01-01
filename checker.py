@@ -51,7 +51,9 @@ def atx(s):
 if system() == 'Windows':
     os.system('cls')
     os.system('title Coded By Lolicyndrome: Fast Apple checker v1')
-elif system() == 'Linux':
+elif system() == 'Android':
+    os.system('clear')
+elif system() == 'linux':
     os.system('clear')
 else:
     pass
