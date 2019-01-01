@@ -46,14 +46,14 @@ B  = "\033[34m";
 # Banner
 def logo():
         print R+"\n|---------------------------------------------------------------|"
-        print "| V3n0mScanner.py    - a modified smartd0rk3r.py                |"
-        print "|  11/2012           - v.0.1                                    |"
+        print "| V3n0mScanner.py    - a modified lolicyndrome.py               |"
+        print "|  01/2k19           - v.0.1                                    |"
         print "|                                                               |"
         print "|     lolicyndrome   - lolicyndrome@gmail.com                   |"
         print "|     Mr.Roberts     - tepot.3003@gmail.com                     |"
         print "|     irsyahdunas    - irsyahdunas@gmail.com                    |"
         print "|                                                               |"
-        print "|  visit lolicyndrome.us                                            |"
+        print "|                visit lolicyndrome.us                          |"
         print "|---------------------------------------------------------------|\n"
         print W
 
